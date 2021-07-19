@@ -7,5 +7,5 @@
     <p>{{ $post['body'] }}</p>
 </article>
 
-<a href="/blog">Back to posts</a>
+<a href="/post">Back to posts</a>
 @endsection
